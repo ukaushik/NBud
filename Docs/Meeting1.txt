@@ -1,0 +1,32 @@
+Functionality:
+Development First Iteration functionalities:
+1. Registration
+	- Normal Registration
+	- Social Login(FB/G+)
+2. Login
+2. Account Management
+	- Change Pwd
+	- Update Details
+
+
+Must have Features:
+1. Responsive Design - Support Desktops, Tablets, Mobiles
+2. In future - Android, iPhone App
+
+Basic Architecture:
+
+View -> Controller -> Facade -> Service -> Persistence
+Authentication - Spring
+		- Filter Layer
+
+
+Technology Stack:
+1. MVC - Spring
+	- HTML5/CSS3/Bootstrap
+	- ?
+2. Version Control - GIT
+3. Server - JBoss/Apache/Other
+	- For development - Jetty/?
+4. DB - MongoDB/?
+5. ORM - ?
+
